@@ -1,2 +1,2 @@
 <!-- #comments -->
-this folder is created in oreder to perform fullstack
+this folder is created in oreder to perform fullstack.
